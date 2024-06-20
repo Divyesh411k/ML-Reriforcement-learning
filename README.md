@@ -5,9 +5,21 @@
      <li> UCB: Upper Confidence Bound    </li>
     </ol>
   </li>
-  <li>Implement REINFORCE algorithm on a CartPole/ Lunar Lander.
+  <li>Policy Gradient (Convergence)
+ <ol><li>Implement REINFORCE algorithm on a CartPole/ Lunar Lander.</li>
+    </ol>
 </li>
-<li></li>
-  <li></li>
-  <li></li>
+<li>Dynamic Programming and Monte Carlo Methods
+<ol>
+  <li>Implementation of GridWorld</li>
+    </ol>
+</li>
+  <li>
+    Temporal Difference
+    <ol>
+      <li>Implement Frozen lake using SARSA.</li>
+       <li>Implement Grid world using Q learning</li>
+    </ol>
+</li>
+  </li>
 </ul>
